@@ -1,0 +1,5 @@
+{
+  "ambientDependencies": {
+    "pixi-spine": "registry:dt/pixi-spine#1.0.4+20160317120654"
+  }
+}
